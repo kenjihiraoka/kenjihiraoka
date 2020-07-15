@@ -19,7 +19,7 @@ kenji = {
         "where": "UNICAMP",
         "subject": "Airflow - The Last Airbender"
     },
-        "hobbies": ["read novel", "play piano", "snooker"]
+    "hobbies": ["read novel", "play piano", "snooker"]
 }
 
 ```
