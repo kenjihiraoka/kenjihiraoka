@@ -11,7 +11,7 @@
 ```python
 kenji = {
     "pronouns": ["he" | "him"],
-    "code": ["Python", "Javascript"],
+    "code": ["Python"],
     "tools": ["Docker", "Apache Airflow", "GCP Composer", "Spark", "Kafka", "Snowplow"],
     "cloud": ["AWS", "Databricks", "GCP"],
     "talk": {
@@ -24,4 +24,4 @@ kenji = {
 
 ```
 
-![kenjihiraoka's github stats](https://github-readme-stats.vercel.app/api?username=kenjihiraoka&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenjihiraoka&layout=compact)](https://github.com/kenjihiraoka/github-readme-stats)
