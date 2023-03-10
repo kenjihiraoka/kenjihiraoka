@@ -1,5 +1,5 @@
 <h2>Hi, I'm Kenji! <img src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif" width="70"></h2>
-<p><em>Data Engineer at <a href="https://www.linkedin.com/company/grupo-primo/">Grupo Primo</a>
+<p><em>Data Engineer
 </br>Formed student from <a href="http://www.fatecrp.edu.br/">FATEC Ribeirão Preto
 </em></p>
 
